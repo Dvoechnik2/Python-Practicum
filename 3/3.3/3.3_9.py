@@ -1,6 +1,1 @@
-def main():
-	pass
-
-
-if __name__ == "__main__":
-	main()
+" - ".join([str(x) for x in sorted(set(numbers))])

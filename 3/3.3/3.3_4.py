@@ -1,6 +1,1 @@
-def main():
-	pass
-
-
-if __name__ == "__main__":
-	main()
+{x for x in numbers if x % 2 == 1}

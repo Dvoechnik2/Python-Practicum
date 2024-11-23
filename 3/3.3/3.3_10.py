@@ -1,6 +1,1 @@
-def main():
-	pass
-
-
-if __name__ == "__main__":
-	main()
+''.join([x[0] * x[1] for x in rle])

@@ -1,6 +1,1 @@
-def main():
-	pass
-
-
-if __name__ == "__main__":
-	main()
+[x ** 2 for x in range(a, b + 1)]

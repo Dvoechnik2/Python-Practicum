@@ -1,6 +1,1 @@
-def main():
-	pass
-
-
-if __name__ == "__main__":
-	main()
+{num: [divider for divider in range(1, num + 1) if num % divider == 0] for num in sorted(numbers)}

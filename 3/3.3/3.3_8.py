@@ -1,6 +1,1 @@
-def main():
-	pass
-
-
-if __name__ == "__main__":
-	main()
+"".join([w[0].upper() for w in string.split(" ")])
