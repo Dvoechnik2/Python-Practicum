@@ -1,0 +1,1 @@
+{num: [divider for divider in range(1, num + 1) if num % divider == 0] for num in sorted(numbers)}
