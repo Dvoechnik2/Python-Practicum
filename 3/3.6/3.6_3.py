@@ -1,0 +1,1 @@
+[x for x in ints if abs(x) % 10 > 3] + [y for y in ints if abs(y) % 10 <= 3]
